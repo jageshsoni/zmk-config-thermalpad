@@ -2,8 +2,8 @@
 #include "oled_enc-layouts.dtsi"
 
 &thermalpad_physical_layout {
-    transform = <&default_transform>:
-}
+    transform = <&default_transform>;
+};
 
 / {
     chosen {
