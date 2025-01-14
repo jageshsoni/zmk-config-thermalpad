@@ -1,0 +1,2 @@
+config SHIELD_TWO_ENC
+    def_bool $(shields_list_contains,two_enc)
