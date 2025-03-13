@@ -24,7 +24,3 @@ include:
     shield: two_enc 
     snippet: studio-rpc-usb-uart
 
-# oled encoders build
-  - board: nice60
-    shield: oled_enc 
-    snippet: studio-rpc-usb-uart
