@@ -20,11 +20,11 @@
 ---
 include:
 # two encoders build
-  - board: nice_nano_v2
+  - board: nice60
     shield: two_enc 
     snippet: studio-rpc-usb-uart
 
 # oled encoders build
-  - board: nice_nano_v2
+  - board: nice60
     shield: oled_enc 
     snippet: studio-rpc-usb-uart
